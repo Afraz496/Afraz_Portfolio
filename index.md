@@ -1,4 +1,4 @@
-# Afraz_Portfolio
+# Afraz Arif Khan's Portfolio
 
 ## Project 1: [StudyBuddy: A Smart Study Solution](https://github.com/Afrazinator/MHML)
 
