@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Afraz_Portfolio
 
-You can use the [editor on GitHub](https://github.com/Afrazinator/Afraz_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Project 1: [StudyBuddy: A Smart Study Solution](https://github.com/Afrazinator/MHML)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Designed the Heart Rate Monitoring Component for StudyBuddy: A Smart Study Solution which measures procrastination while you study. 
+- Helped in integration of various components on Android Studio
+- Assisted in the design of predictive components for the application to help better recommend smarter study solutions
 
-### Markdown
+## Project 2: [PillBot](https://github.com/maqur/PillBot)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Worked on the Speech Processing and Recognition Component of PillBot
+- Full Paper can be found [here](https://www.dropbox.com/s/j2x718wtedcm5q7/PillBot-final-report.pdf?dl=0)
 
-```markdown
-Syntax highlighted code block
+## Project 3: [FDA Press Release and R&D in Pharmaceuticals](https://github.com/Afrazinator/fdareports)
 
-# Header 1
-## Header 2
-### Header 3
+- Wrote a webcrawler that collected press release data from the FDA finding 'dangerous' drugs approved. (Dangerous is defined as a drug that has death as a side effect)
+- Carried out a DID regression to determine R&D improvement in pharmaceuticals after an exogenous shock in 2017 linked an announcement by President Trump.
+- The full paper can be found [here](https://github.com/Afrazinator/fdareports/blob/master/Term_Project_Report_COMM695.pdf)
 
-- Bulleted
-- List
+## Project 4: [Feeling Good about your Drugs?](https://afraz-arif.medium.com/feeling-good-about-your-drugs-821e3870427)
 
-1. Numbered
-2. List
+- Prepared 3 Machine Learning models on customer reviews on WebMD posts to determine how much 'Satisfaction' they give to their medication
+- The full code is proprietary and not available for public release but the medium article offers a great description of the process.
 
-**Bold** and _Italic_ and `Code` text
+## Project 5: [Luggauge](https://github.com/Afrazinator/Luggauge)
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Afrazinator/Afraz_Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+- IoT project, wrote a program in uPython that measured if Luggage is mishandled by airlines. 
+- Added an innovative LDR component to the project that determined if the suitcase had been opened by authorities during travel.
